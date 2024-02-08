@@ -1,0 +1,9 @@
+pkgname = mega-bezel-community-v36-ultralite
+pkgver = 1.0.0-1
+pkgdesc = Mega Bezel Community pack Ultralite for v36 and later
+arch = x86_64
+group = bezel
+packager = TVsIan
+url = https://github.com/Duimon/Duimon-Mega-Bezel
+size = 1333858304
+builddate = 1668364621

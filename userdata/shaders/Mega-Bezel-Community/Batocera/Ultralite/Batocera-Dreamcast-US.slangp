@@ -1,0 +1,3 @@
+#reference "/userdata/shaders/Mega-Bezel-Community/Presets/Potato/SEGA_Dreamcast/Dreamcast_Alt-[POTATO]-[GDV-MINI]-[Bezel].slangp"
+HSM_INTRO_SPEED = "256.000000"
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"

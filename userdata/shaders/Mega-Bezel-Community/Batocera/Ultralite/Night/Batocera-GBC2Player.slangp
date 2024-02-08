@@ -1,0 +1,4 @@
+#reference "/userdata/shaders/Mega-Bezel-Community/Presets/Potato/Nintendo_GBC2Player/GBC2Player-[POTATO]-[LCD-GRID]-[Night].slangp"
+HSM_INTRO_SPEED = "256.000000"
+HSM_DECAL_POS_X = "-63.500019"
+HSM_LED_POS_X = "0"

@@ -1,0 +1,387 @@
+## Mega-Bezel-Community
+default:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
+
+# Acorn/BBC
+archimedes:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Archimedes
+atom:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Atom
+bbc:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-BBC
+electron:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Electron
+
+# Amstrad
+amstradcpc:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-AmstradCPC
+gx4000:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GX4000
+
+# Apple
+apple2:       # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Apple2
+apple2gs:     # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Apple2gs
+macintosh:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Macintosh
+
+# Arcade
+fbneo:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-FBNeo
+mame:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MAME
+
+# Atari
+atari2600:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Atari2600
+atari800:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Atari800
+atari5200:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Atari5200
+atarist:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-AtariST
+atari7800:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Atari7800
+lynx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-AtariLynx
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-AtariLynx-90
+  shader-270: Mega-Bezel-Community/Batocera/Ultralite/Batocera-AtariLynx-270
+jaguar:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Jaguar
+xegs:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-XEGS
+
+# Bandai
+wswan:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-WSwan
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-WSwan-90
+wswanc:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-WSwanC
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-WSwanC-90
+sufami:          # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NES-JP
+satellaview:     # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NES-JP
+
+# Coleco
+adam:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ADAM
+colecovision:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ColecoVision
+
+# Commodore
+amigacdtv:    # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
+amigacd32:    # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
+pet:          # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Monitor
+c20:          # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-C64
+c64:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-C64
+c128:         # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-C64
+cplus4:       # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-C64
+amiga500:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Amiga500
+amiga1200:    # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Amiga500
+
+# Epoch
+scv:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SCV
+gamepock:     # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-LCD
+
+# Fujitsu
+fm7:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-FM7
+fmtowns:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-FMTowns
+
+# Microsoft
+msx1:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MSX1
+msx2:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MSX2
+msx2+:        # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MSX2
+msxturbor:    # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MSX2
+dos:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-DOS
+
+# NEC
+pcengine:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PCEngine-JP
+pcenginecd:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PCEngineCD-JP
+supergrafx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SuperGrafx
+pcfx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PCFX
+pc88:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PC88
+pc98:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PC98
+
+# Nintendo
+nes:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NES-JP
+fds:          # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NES-JP
+snes:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SNES-JP
+snes-msu1:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SNES-MSU1
+sgb:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SGB-JP
+virtualboy:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-VirtualBoy
+n64:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-N64
+n64dd:        # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-N64
+gamecube:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Gamecube
+wii:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Wii
+gameandwatch: # Shaders disabled
+  shader: none
+gb:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GB
+gb2players:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GB2Player
+gbc:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GBC
+gbc2players:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GBC2Player
+gba:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GBA
+pokemini:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PokeMini
+nds:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NDS
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NDS-Vert
+3ds:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-3DS
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-3DS-Vert
+
+# Sega
+naomi:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Naomi
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Naomi-90
+naomi2:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Naomi
+  shader-90: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Naomi-90
+sg1000:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SG1000
+mastersystem:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MasterSystem-JP
+megadrive:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Megadrive-JP
+sega32x:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Sega32x-JP
+segacd:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SegaCD-JP
+saturn:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Saturn
+dreamcast:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Dreamcast-US
+vemulator:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-VeMUlator
+gamegear:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GameGear
+model2:       # Currently no Libretro core
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcade
+model3:       # Currently no Libretro core
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcade
+hikaru:       # Currently no Libretro core
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcade
+
+# Sharp
+x1:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-X1
+x68000:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-X68000
+
+# Sinclair
+zx81:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ZX81
+zxspectrum:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ZXSpectrum
+
+# SNK
+neogeo:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NeoGeo
+neogeocd:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NeoGeoCD
+ngp:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NGP
+ngpc:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-NGPC
+atomiswave:   # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcade-VFlip
+
+# Sony
+psx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PSX
+ps2:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PS2
+psp:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PSP
+
+# VTech
+crvision:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-CrVision
+socrates:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Socrates
+vsmile:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-VSmile
+
+# Other
+3do:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-3DO
+advision:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Advision-Defender
+  shader-defender: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Advision-Defender
+  shader-spacefrc: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Advision-Spacefrc
+  shader-scobra: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Advision-Scobra
+  shader-turtles: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Advision-Turtles
+apfm1000:      # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV5
+arcadia:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcadia
+arduboy:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arduboy
+astrocde:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Astrocde
+camplynx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-CampLynx
+cdi:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-CDi
+channelf:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ChannelF
+coco:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-CoCo
+gamate:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Gamate
+gmaster:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GMaster
+gamecom:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GameCom
+gp32:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-GP32
+intellivision:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Intellivision
+j2me:         # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-LCD
+laser310:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Laser310
+lcdgames:     # Shaders disabled
+  shader: none
+megaduck:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MegaDuck
+o2em:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-O2Em
+pdp1:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PDP1
+plugnplay:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PlugNPlay
+pv1000:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PV1000
+supervision:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Supervision-JP
+supracan:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SuprACan
+thomson:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Thomson
+ti99:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TI99
+tutor:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Tutor
+vc4000:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-VC4000
+vectrex:
+  shader:          Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex
+  shader-armora:   Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-armora
+  shader-bedlam:   Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-bedlam
+  shader-berzerk:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-berzerk
+  shader-blitz:    Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-blitz
+  shader-cleanswp: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-cleanswp
+  shader-cchasm:   Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-cchasm
+  shader-darktowr: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-darktowr
+  shader-fnarzod:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-fnarzod
+  shader-headsup:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-headsup
+  shader-hyprchas: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-hyprchas
+  shader-minestrm: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-minestrm
+  shader-minestr2: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-minestr2
+  shader-ptchduel: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-ptchduel
+  shader-polarres: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-polarres
+  shader-polepos:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-polepos
+  shader-ripoff:   Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-ripoff
+  shader-scramble: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-scramble
+  shader-solarq:   Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-solarq
+  shader-spacewar: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-spacewar
+  shader-spike:    Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-spike
+  shader-spinball: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-spinball
+  shader-starcas:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-starcas
+  shader-starship: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-starship
+  shader-startrek: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-startrek
+  shader-starhawk: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-starhawk
+  shader-tourfrnc: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-tourfrnc
+  shader-webwars:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-webwars
+  shader-2dnarrow: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-2dnarrow
+  shader-fpinball: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-fpinball
+  shader-patriots: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-patriots
+  shader-patriot3: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-patriot3
+  shader-spikeski: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-spikeski
+  shader-vectrace: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-vectrace
+  shader-frogger:  Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-frogger
+  shader-vectrian: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-vectrian
+  shader-wormhole: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Vectrex-wormhole
+
+# Fantasy/Homebrew Consoles
+lowresnx:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-LowresNX
+lutro:        # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
+pico8:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Pico8
+tic80:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TIC80
+uzebox:       # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Uzebox
+
+# Ports etc.
+cannonball:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-CannonBall
+cavestory:    # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
+easyrpg:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-EasyRPG
+ecwolf:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ECWolf
+gong:         # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Arcade
+mrboom:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-MrBoom
+prboom:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-PrBoom
+scummvm:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-ScummVM
+superbroswar:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-SuperBrosWar
+tyrquake:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TyrQuake
+vgmplay:      # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-Monitor
+vitaquake2:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-vitaQuake2
+xrick:
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-XRick
+zc210:        # No Bezel
+  shader: Mega-Bezel-Community/Batocera/Ultralite/Batocera-TV7
